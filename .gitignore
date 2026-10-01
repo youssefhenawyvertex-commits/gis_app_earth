@@ -1,0 +1,7 @@
+venv/
+app_profile/
+__pycache__/
+*.pyc
+config.js
+.env
+.DS_Store
